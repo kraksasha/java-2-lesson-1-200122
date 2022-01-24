@@ -10,4 +10,5 @@ public abstract class Person {
     public void setCash(long cash) {
         this.cash = cash;
     }
+
 }

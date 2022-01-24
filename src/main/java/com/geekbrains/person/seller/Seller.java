@@ -67,4 +67,5 @@ public class Seller extends Person {
     public void setProducts(List<Product> products) {
         this.products = products;
     }
+
 }
