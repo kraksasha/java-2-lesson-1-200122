@@ -99,4 +99,5 @@ public class Customer extends Person {
         this.purchaseList = purchaseList;
     }
 
+
 }
